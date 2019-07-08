@@ -1,0 +1,7 @@
+c:\users\johnny\documents\visual studio 2013\Projects\dtepkr\dtepkr\bin\Debug\dtepkr.dll
+c:\users\johnny\documents\visual studio 2013\Projects\dtepkr\dtepkr\bin\Debug\dtepkr.pdb
+c:\users\johnny\documents\visual studio 2013\Projects\dtepkr\dtepkr\obj\Debug\dtepkr.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2013\Projects\dtepkr\dtepkr\obj\Debug\dtepkr.Form1.resources
+c:\users\johnny\documents\visual studio 2013\Projects\dtepkr\dtepkr\obj\Debug\dtepkr.csproj.GenerateResource.Cache
+c:\users\johnny\documents\visual studio 2013\Projects\dtepkr\dtepkr\obj\Debug\dtepkr.dll
+c:\users\johnny\documents\visual studio 2013\Projects\dtepkr\dtepkr\obj\Debug\dtepkr.pdb
